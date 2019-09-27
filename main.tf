@@ -8,6 +8,6 @@ resource "aws_instance" "example" {
 	subnet_id	= "subnet-003e6aeb593c71a64"
 
 tags	= {
-	Name = "terraform-example-3"
+	Name = "terraform-example-4"
 }	
 }
